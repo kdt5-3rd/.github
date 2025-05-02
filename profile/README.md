@@ -5,13 +5,17 @@
 ####  ⏲ 개발 기간 : 2025.03 ~
 #### 🔖 현재 버전: release v.1.2.2
 #### 🔗 배포 주소: https://ttolgaebi.com
-
+#### Frontend repository: https://github.com/kdt5-3rd/kdt5-3rd-front
+#### Backend Repository: https://github.com/kdt5-3rd/kdt5-3rd-back
 
 <br/>
 
 ## 프로젝트 목표
 똘개비는 에이닷, Google Assistant, Siri, amazon alexa, Bixby와 같이 비슷한 기존 서비스의 문제점을 개선하는 것을 목표로 하며    
 접근성, 효율성, 안정성을 갖춘 **통합형 비서 어플리케이션**입니다.
+
+<details>
+<summary>기존 서비스와 비교한 똘개비 서비스의 중점 구현 사항 및 기대 효과</summary>
 
 #### 기존 서비스의 공통 장점
 - 음성 인식 및 AI 기술 활용
@@ -33,6 +37,9 @@
 - 서비스 신뢰도 및 안정성 강화
   - 데이터 수신 시점의 동기화
   - 정보 지연 최소화 및 신뢰성 있는 서비스 제공
+
+</details>
+
 
 <br/>
 
